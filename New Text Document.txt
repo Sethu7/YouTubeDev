@@ -5,4 +5,5 @@ Syllabus
 4. Selenium
 5.Frame work
 6.Github
-
+7.Jmeter
+8.jira tool
