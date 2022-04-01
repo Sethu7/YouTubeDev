@@ -7,3 +7,5 @@ Syllabus
 6.Github
 7.Jmeter
 8.jira tool
+9.API
+10.Health care
